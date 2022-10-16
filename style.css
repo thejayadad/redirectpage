@@ -4,4 +4,14 @@ body {
     height: 100vh;
     align-items: center;
     flex-direction: column;
+    font-family: monospace;
+}
+
+
+button{
+    padding: 19px;
+    border-radius: 20px;
+    background: orange;
+    border: none;
+    cursor: pointer;
 }
